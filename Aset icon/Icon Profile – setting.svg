@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135" height="130" viewBox="0 0 135 130">
+  <defs>
+    <clipPath id="clip-Icon_Profile_setting">
+      <rect width="135" height="130"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_Profile_setting" data-name="Icon Profile – setting" clip-path="url(#clip-Icon_Profile_setting)">
+    <path id="Path_31" data-name="Path 31" d="M22.812,0c12.6,0,22.812,10.456,22.812,23.355S35.411,46.71,22.812,46.71,0,36.254,0,23.355,10.213,0,22.812,0Z" transform="translate(44.688)" fill="#ee4169"/>
+    <path id="Path_13" data-name="Path 13" d="M56.066,0a56.066,56.066,0,0,1,56.066,56.066C112.132,87.031,0,87.031,0,56.066A56.066,56.066,0,0,1,56.066,0Z" transform="translate(11.434 50.71)" fill="#ee4169"/>
+  </g>
+</svg>

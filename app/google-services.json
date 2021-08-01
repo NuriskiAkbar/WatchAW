@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073242727668",
+    "project_id": "watchaw-d8b92",
+    "storage_bucket": "watchaw-d8b92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073242727668:android:c36d789a94d3e414f92aa1",
+        "android_client_info": {
+          "package_name": "com.riquest.watchaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073242727668-6jpijr1p8q9nrb3dh9q2r9r6scu2f57f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqHRElF2Qz-IoCRxiYy7g1gRKasXjB6rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073242727668-6jpijr1p8q9nrb3dh9q2r9r6scu2f57f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
