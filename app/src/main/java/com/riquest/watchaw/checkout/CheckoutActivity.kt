@@ -8,7 +8,9 @@ import com.riquest.watchaw.R
 import com.riquest.watchaw.model.Checkout
 import com.riquest.watchaw.utils.Preferences
 import kotlinx.android.synthetic.main.activity_checkout.*
-
+/*
+ini adalah contoh komentar untuk melakukan update github
+ */
 class CheckoutActivity : AppCompatActivity() {
 
     private var dataList = ArrayList<Checkout>()
